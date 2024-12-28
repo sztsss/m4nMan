@@ -50,7 +50,7 @@ if (isset($_POST['password'])) {
         $_SESSION['coki'] = 'asu'; // Replace this with your cookie data
     } else {
         // Password is incorrect
-        echo "Incorrect password. Please try again.";
+        echo "Kalau Gatau Passnya Jangan Ngeyel Kontol !!!! ";
     }
 }
 
@@ -68,7 +68,7 @@ if (is_logged_in()) {
     </head>
     <body>
         <form method="POST" action="">
-            <label for="password">:LOGIN KONTOL:</label>
+            <label for="password">LOGIN KONTOL:</label>
             <input type="password" id="password" name="password">
             <input type="submit" value="Login">
         </form>
